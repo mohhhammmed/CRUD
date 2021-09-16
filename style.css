@@ -1,0 +1,31 @@
+.form-body{
+    width: 600px;
+    margin:50px 380px;
+    background-color: rgb(222 224 226 / 23%);
+    box-shadow: 1px 1px 2px #e6d5d5;
+    border-radius: 10px;
+    height: 267px;
+}
+.mb-3{
+    width: 400px;
+    margin:10px 100px;
+}
+
+button{
+    width: 400px;
+}
+.form-label{
+    margin-top: 15px;
+}
+
+
+.table-data{
+    width: 600px;
+    margin-left: 380px;
+    box-shadow: 1px 1px 1px #e4d0d0;
+    border-radius: 10px;
+    background-color: white;
+}
+body{
+    background-color: black;
+}
